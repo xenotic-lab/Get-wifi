@@ -11,5 +11,5 @@ Tested on:
   🔹Windows 
   
 ## Caution: 
-Do not use this script for any illegal activities. Neither the author nor Alt-Ctrl-Lab is responsible for this !.
+Do not use this script for any illegal activities. Neither the author nor Xenotic-lab is responsible for this !.
 
